@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul > li {
+  display: inline-block;
+  /* this was my solution to making my router navigation all appear in one row, 
+  I couldn't figure out how to make a navbar work with the router*/
+}
+
+#picture{
+  margin-left: 1000px;
+  padding: 10px;
+}
+
+#link{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #89BE9F;
+}
+
+#image-title{
+  margin-left: 1000px;
+
+}
+
+#image-text{
+  margin-left: 1000px;
+}
+
+#form{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#post-box{
+  height: 50px;
+  width: 400px;
+  margin-bottom: 10px;
+}
+
+#name-box{
+  margin-bottom: 10px;
+}
+
+#post{
+  border-style: dotted;
+  border-color: darkgreen;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#btn{
+  background-color: darkgreen;
+  color: white;
+  border-radius: 20px;
+}
+
+#home{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

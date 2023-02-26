@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Bears are super cool and they know best.",
+      "author": "Thomas"
+    },
+    {
+      "title": "Hi to all the bears out there.",
+      "author": "tom",
+      "id": 2
+    },
+    {
+      "title": "I like bears.",
+      "author": "me",
+      "id": 4
+    },
+    {
+      "title": "Hey tom",
+      "author": "bears",
+      "id": 6
+    }
+  ]
+}
